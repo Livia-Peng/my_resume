@@ -49,7 +49,7 @@ a:hover{text-decoration: underline}
 /*个人信息*/
 .personal_info{
     width: 566px;
-    height: 180px;
+    height: 200px;
     margin-bottom: 15px;
 }
 
@@ -57,7 +57,7 @@ a:hover{text-decoration: underline}
     width: 90px;
     float: right;
     position: absolute;
-    top: 68px;
+    top: 85px;
     right: 15px;
 }
 
