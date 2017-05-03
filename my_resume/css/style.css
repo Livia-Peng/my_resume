@@ -99,6 +99,8 @@ a:hover{text-decoration: underline}
     font-size: 14px;
     line-height: 24px;
 }
+.common_content li img{height: 11px;}
+
 .common_content p{width: 658px}
 .bottom{
     width: 700px;
